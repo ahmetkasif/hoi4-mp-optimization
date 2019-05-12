@@ -1,7 +1,9 @@
 ﻿capital = 361
 
 oob = "USA_1936"
-
+add_ideas = {
+	doom_of_1929
+}
 set_research_slots = 3
 set_stability = 0.75
 set_war_support = 0

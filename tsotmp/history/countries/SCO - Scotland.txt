@@ -8,7 +8,9 @@ set_technology = {
 }
 
 set_convoys = 20
-
+add_ideas = {
+	doom_of_1929
+}
 1939.1.1 = {
 	#generic focuses
 	complete_national_focus = army_effort

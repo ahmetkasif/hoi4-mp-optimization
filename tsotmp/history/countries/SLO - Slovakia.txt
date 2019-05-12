@@ -20,7 +20,9 @@ set_technology = {
 	early_bomber = 1
 	CAS1 = 1
 }
-
+add_ideas = {
+	doom_of_1929
+}
 1939.1.1 = {
 	
 	add_political_power = 1198

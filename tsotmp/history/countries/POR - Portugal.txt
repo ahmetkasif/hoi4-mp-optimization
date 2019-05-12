@@ -8,7 +8,9 @@ if = {
 		set_naval_oob = "POR_1936_naval_legacy"
 	}
 }
-
+add_ideas = {
+	doom_of_1929
+}
 set_research_slots = 3
 
 set_technology = {

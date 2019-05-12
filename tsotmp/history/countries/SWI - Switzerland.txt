@@ -15,7 +15,6 @@ set_technology = {
 	CAS1 = 1
 	fuel_silos = 1
 }
-
 1939.1.1 = {
 
 	add_political_power = 1198
@@ -113,7 +112,8 @@ set_politics = {
 }
 
 add_ideas = {
-	neutrality_idea	
+	neutrality_idea
+	doom_of_1929
 	limited_conscription
 }
 

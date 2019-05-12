@@ -11,7 +11,9 @@ set_technology = {
 	tech_support = 1
 	tech_recon = 1	
 }
-
+add_ideas = {
+	doom_of_1929
+}
 if = {
 	limit = {
 		not = { has_dlc = "Man the Guns" }

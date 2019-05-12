@@ -1,7 +1,9 @@
 ﻿capital = 305
 
 oob = "ECU_1936"
-
+add_ideas = {
+	doom_of_1929
+}
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

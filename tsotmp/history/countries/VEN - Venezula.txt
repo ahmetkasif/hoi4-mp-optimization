@@ -11,7 +11,9 @@ set_technology = {
 	fuel_refining = 1
 }
 set_country_flag = monroe_doctrine
-
+add_ideas = {
+	doom_of_1929
+}
 1939.1.1 = {
 
 	add_political_power = 1198

@@ -8,6 +8,10 @@ set_technology = {
 	basic_light_tank = 1
 }
 
+add_ideas = {
+	doom_of_1929
+}
+
 1939.1.1 = {
 
 	add_political_power = 1198

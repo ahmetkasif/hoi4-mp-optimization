@@ -15,7 +15,9 @@ set_technology = {
 	CAS1 = 1
 	
 }
-
+add_ideas = {
+	doom_of_1929
+}
 if = {
 	limit = { has_dlc = "Together for Victory" }
 
