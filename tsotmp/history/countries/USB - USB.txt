@@ -123,11 +123,7 @@ set_technology = {
 	}
 }
 
-
-
-
 set_convoys = 400
-
 
 set_politics = {
 

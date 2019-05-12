@@ -1,13 +1,5 @@
 ﻿capital = 300
 
-oob = "URG_1936"
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "URG_1936_naval_mtg"
-	else = {
-		set_naval_oob = "URG_1936_naval_legacy"
-	}
-}
 add_ideas = {
 	doom_of_1929
 }
@@ -53,15 +45,6 @@ set_convoys = 5
 	complete_national_focus = construction_effort
 	complete_national_focus = production_effort
 	
-	oob = "URG_1939"
-	if = {
-		limit = { has_dlc = "Man the Guns" }
-			set_naval_oob = "URG_1939_naval_mtg"
-		else = {
-			set_naval_oob = "URG_1939_naval_legacy"
-		}
-	}
-
 	set_technology = {
 		infantry_weapons1 = 1
 		support_weapons = 1

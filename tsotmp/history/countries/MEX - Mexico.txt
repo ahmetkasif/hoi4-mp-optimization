@@ -1,13 +1,5 @@
 ﻿capital = 277
 
-oob = "MEX_1936"
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "MEX_1936_naval_mtg"
-	else = {
-		set_naval_oob = "MEX_1936_naval_legacy"
-	}
-}
 add_ideas = {
 	doom_of_1929
 }
@@ -67,15 +59,6 @@ if = {
 	add_political_power = 1198
 
 	set_global_flag = flag_mexico_cedillo_has_revolted
-	
-	oob = "MEX_1939"
-	if = {
-		limit = { has_dlc = "Man the Guns" }
-			set_naval_oob = "MEX_1939_naval_mtg"
-		else = {
-			set_naval_oob = "MEX_1939_naval_legacy"
-		}
-	}
 	
 	set_technology = {
 		interwar_artillery = 1

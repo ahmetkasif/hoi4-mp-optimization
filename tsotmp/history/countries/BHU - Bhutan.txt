@@ -1,6 +1,5 @@
 ﻿capital = 324
 
-oob = "BHU_1936"
 add_ideas = {
 	doom_of_1929
 }

@@ -1,14 +1,5 @@
 ﻿capital = 278
 
-oob = "ARG_1936"
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "ARG_1936_naval_mtg"
-	else = {
-		set_naval_oob = "ARG_1936_naval_legacy"
-	}
-}
-
 add_ideas = {
 	doom_of_1929
 }
@@ -56,9 +47,6 @@ if = {
 set_country_flag = monroe_doctrine
 
 1939.1.1 = {
-
-	add_political_power = 1198
-	
 	#generic focuses
 	complete_national_focus = army_effort
 	complete_national_focus = equipment_effort
@@ -70,7 +58,6 @@ set_country_flag = monroe_doctrine
 	complete_national_focus = construction_effort
 	complete_national_focus = production_effort
 	
-	oob = "ARG_1939"
 	if = {
 		limit = { has_dlc = "Man the Guns" }
 			set_naval_oob = "ARG_1939_naval_mtg"
@@ -132,7 +119,6 @@ set_country_flag = monroe_doctrine
 	}
 }
 
-set_convoys = 120
 set_politics = {
 
 	parties = {

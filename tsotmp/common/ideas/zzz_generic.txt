@@ -11,10 +11,9 @@ ideas = {
 			
 			modifier = {
 				research_speed_factor = -5
-				conscription = -1.2
-				consumer_goods_factor = 1.2
-				army_org_factor = -1.2
-				enemy_justify_war_goal_time = 5
+				conscription = -1
+				consumer_goods_factor = 1
+				army_org_factor = -1
 			}
 }
 	}

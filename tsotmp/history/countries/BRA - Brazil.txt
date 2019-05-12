@@ -1,7 +1,6 @@
 ﻿capital = 500
 
 
-oob = "BRA_1936"
 add_ideas = {
 	doom_of_1929
 }
@@ -29,7 +28,6 @@ if = {
 		early_battleship = 1
 		transport = 1
 	}
-	set_naval_oob = "BRA_1936_naval_legacy"
 }
 if = {
 	limit = { has_dlc = "Man the Guns"}
@@ -46,7 +44,6 @@ if = {
 		basic_torpedo = 1
 		mtg_transport = 1
 	}
-	set_naval_oob = "BRA_1936_naval"	
 }
 set_country_flag = monroe_doctrine
 
@@ -65,7 +62,6 @@ set_country_flag = monroe_doctrine
 	complete_national_focus = construction_effort
 	complete_national_focus = production_effort
 	
-	oob = "BRA_1939"
 	set_technology = {
 		interwar_artillery = 1
 		infantry_weapons1 = 1
@@ -108,14 +104,12 @@ set_country_flag = monroe_doctrine
 			basic_submarine = 1
 			basic_destroyer = 1
 		}
-		set_naval_oob = "BRA_1939_naval_legacy"
 	}
 	if = {
 		limit = { has_dlc = "Man the Guns" }
 		set_technology = {
 			basic_ship_hull_light = 1
 		}
-		set_naval_oob = "BRA_1939_naval"
 	}
 }
 
